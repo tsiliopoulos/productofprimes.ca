@@ -1,0 +1,13 @@
+body
+{
+    background: url("../Assets/images/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+.jumbotron {
+  color: white;
+  background:transparent !important;
+}
+
